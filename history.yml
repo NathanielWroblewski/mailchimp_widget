@@ -1,0 +1,19 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Streamlininess","value":19},{"label":"Web 2.0","value":20},{"label":"Exit strategy","value":15},{"label":"Synergy","value":19},{"label":"Enterprise","value":15},{"label":"Pivoting","value":12},{"label":"Paradigm shift","value":18},{"label":"Turn-key","value":12},{"label":"Leverage","value":15}],"id":"buzzwords","updatedAt":1377581858}
+
+convergence: |+
+  data: {"points":[{"x":146,"y":9},{"x":147,"y":30},{"x":148,"y":31},{"x":149,"y":6},{"x":150,"y":25},{"x":151,"y":8},{"x":152,"y":26},{"x":153,"y":30},{"x":154,"y":26},{"x":155,"y":22}],"id":"convergence","updatedAt":1377581858}
+
+valuation: |+
+  data: {"current":10,"last":5,"id":"valuation","updatedAt":1377581858}
+
+karma: |+
+  data: {"current":174345,"last":173695,"id":"karma","updatedAt":1377581858}
+
+synergy: |+
+  data: {"value":43,"id":"synergy","updatedAt":1377581858}
+
+mailchimp: |+
+  data: {"uniq_opens":13,"uniq_clicks":3,"sent":23,"unsubscribes":0,"id":"mailchimp","updatedAt":1377581570}
+
